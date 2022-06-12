@@ -1,0 +1,128 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "companyName": "Emxcel",
+            "companyFullName": "Emxcel Hospitality Solutions Pvt. Ltd.",
+            "dateOfJoining": "2019-03-03",
+            "dateOfRelease": "2019-08-31",
+            "projects": [
+                {
+                    "highlight": "Gained rich experience in Angular framework while working on projects: Hospitality Management System & VisitorMangement System",
+                    "role": "Angular Intern"
+                }
+            ],
+            "isIntrenship": true
+        },
+        {
+            "id": 2,
+            "companyName": "Emxcel",
+            "companyFullName": "Emxcel Hospitality Solutions Pvt. Ltd.",
+            "dateOfJoining": "2019-09-03",
+            "dateOfRelease": "2021-05-20",
+            "projects": [
+                {
+                    "forntendTechnology": "Angluar",
+                    "name": "Beepnnext",
+                    "description": "BeepnNext is a latest plan project that involves the real world of saloon and hospital. This project mainly for saloon and hospital. There are three portal super admin (who can control every record), service admin (This is for service who give service to customer), Customer portal (This is for customer, this is based on android) This main purpose of this project is that a customer who want to take service but he/ she wait for many times for his/her service. This project help to take appointment and save their time. He/ she can easily find their service and package and their service cost. Same for hospital purpose we can use this project.",
+                    "role": "Angular Developer and Lead the Team"
+                },
+                {
+                    "forntendTechnology": "Angluar",
+                    "name": "Beepnsay",
+                    "description": "This is a news management system. There are mainly two portals mainly like super admin and customer portal. In customer portal there are two kind of user 1. organizer 2. publication. As a super admin he/ she can verify customer and his onboarding data and also the publication news data. Organizer user can send news details to publishers for publication. And Publication User can accept, reject or publish news.",
+                    "role": "Angular Developer",
+                    "highlight": "management as a Top Contributor for diligence, teamwork, and displaying initiative in the first year of employment"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "companyName": "Navsoft",
+            "companyFullName": "Navigators Software Pvt. Ltd.",
+            "dateOfJoining": "2021-05-21",
+            "projects": [
+                {
+                    "forntendTechnology": "Angluar",
+                    "name": "Buchheits",
+                    "description": "Buchheit Logistics has served industry and agriculture with quality transportation services since 193 4. This team of dedicated and experienced transportation professionals is eager to expand services to customers throughout North America. Buchheit Logistics is a contract carrier of bulk, agricultural and finished goods throughout the 48 contiguous states and Canada, providing dedicated or unique services for shippers and receivers of dry bulk and finished goods. Buchheit Logistics is currently enjoying unprecedented grow th, regularly dispatching nearly 200 trucks daily, company trucks, leased owner-operators, and dedicated independent operators. Over 1 million square feet of warehouse space among multiple facilities in the Midwest and Northeast uniquely places Buchheit Logist ics as your supply chain partner. Call and let us develop a transportation or logistics solution that enhances your overall obj ectives.",
+                    "role": "Angular Developer and Lead the Team"
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "name": "Titagarh Krishnanath Municipal High School",
+            "title": "10th Standard",
+            "marks": "68%"
+        },
+        {
+            "id": 2,
+            "name": "The Calcutta Technical School",
+            "title": "Diploma in Computer Science & Technology",
+            "marks": "8.0 OGPA"
+        },
+        {
+            "id": 3,
+            "name": "St. Marry Technical Campus Kolkata",
+            "title": "B.Tech In CSE",
+            "isPursuing": true,
+            "pursuingDetails": "3rd Year"
+        }
+    ],
+    "technologies": [
+        {
+            "url": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png",
+            "name": "Angular",
+            "value": "70%"
+        },
+        {
+            "url": "https://img.icons8.com/officel/30/undefined/react.png",
+            "name": "React.JS",
+            "value": "50%"
+        },
+        {
+            "url": "https://img.icons8.com/color/48/undefined/javascript--v1.png",
+            "name": "JS",
+            "value": "70%"
+        },
+        {
+            "url": "https://img.icons8.com/color/48/undefined/typescript.png",
+            "name": "TS",
+            "value": "65%"
+        },
+        {
+            "url": "https://img.icons8.com/color/48/undefined/html-5--v1.png",
+            "name": "HTML5",
+            "value": "60%"
+        },
+        {
+            "url": "https://img.icons8.com/glyph-neue/64/undefined/github.png",
+            "name": "Git",
+            "value": "55%"
+        },
+        {
+            "url": "https://img.icons8.com/color/48/undefined/jira.png",
+            "name": "Jira",
+            "value": "60%"
+        }
+    ],
+    "social": [
+        {
+            "url": "https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png",
+            "value": "https://www.linkedin.com/in/rohit-bhagat-301313208/"
+        },
+        {
+            "url": "https://img.icons8.com/fluency/48/undefined/gmail-new.png",
+            "value": "rohitbhagattgh@gmail.com",
+            "redirectUrl": "https://mailto:rohitbhagattgh@gmail.com"
+        },
+        {
+            "url": "https://img.icons8.com/color/48/undefined/callback.png",
+            "value": "8585893828",
+            "redirectUrl": "tel:8585893828"
+        }
+    ]
+}

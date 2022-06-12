@@ -1,0 +1,12 @@
+.profile-section img.loading{
+    width: 100%;
+}
+
+.social-container{
+    display: flex;
+    align-items: center;
+}
+
+.social-container img{
+    margin-right: 10px;
+}

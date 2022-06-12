@@ -1,0 +1,58 @@
+.experience-detais-container {
+  display: flex;
+  align-items: stretch;
+}
+
+.stepper-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.description{
+  word-spacing: 2px;
+}
+
+.info{
+  cursor: pointer;
+}
+
+.duration {
+  padding: 10px 0;
+}
+
+.comapny-name{
+  display: flex;
+  align-items: center;
+}
+
+.comapny-name img {
+  margin-left: 5px;
+}
+
+.step-number {
+  color: #fff;
+  border-radius: 50%;
+  background: #1565ff;
+  margin-bottom: 0.25rem;
+  height: 2rem;
+  width: 2rem;
+  line-height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1/1;
+}
+
+.stepper-line {
+  width: 2px;
+  background-color: #d3d3d3;
+  height: 100%;
+}
+
+
+.project-details {
+    padding-bottom: 20px;
+}
