@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.b48e8237.css",
+    "main.js": "/resume/static/js/main.b3d0c348.js",
+    "static/js/27.80ec1f0b.chunk.js": "/resume/static/js/27.80ec1f0b.chunk.js",
+    "index.html": "/resume/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b48e8237.css",
+    "static/js/main.b3d0c348.js"
+  ]
+}
